@@ -2,10 +2,6 @@
 
 AI Commitment OS is a Commitment Intelligence Platform that captures commitments from conversations and turns them into trackable execution workflows.
 
-## Product Thesis
-
-Work is created conversationally but tracked manually. This project closes that gap.
-
 ## Current Stack
 
 - Next.js 14 (App Router)
